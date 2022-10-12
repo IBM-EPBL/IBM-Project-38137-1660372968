@@ -1,6 +1,6 @@
 # IBM-Project-38137-1660372968
 
-                                                            NUTRITION ASSISTANT APPLICATION
+                                                    NUTRITION ASSISTANT APPLICATION
                                                                    
 PROJECT DESCRIPTION :
 	Food is essential for human life and has been the concern of many healthcare conventions. Nowadays new dietary assessment and nutrition analysis tools enable more
