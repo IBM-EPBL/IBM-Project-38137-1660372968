@@ -11,7 +11,7 @@ like colour, shape, texture etc. Here the user can capture the images of differe
 the image and detect the nutrition based on the fruits like (Sugar, Fibre, Protein, Calories, etc.).    
 
 TEAM MEMBERS :
-A.sakthi oviya 
-J.rajarajeswari
-Sri vijaya harini
+A.sakthi oviya ,
+J.rajarajeswari,
+Sri vijaya harini,
 S.R.Samyuktha
