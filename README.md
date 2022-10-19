@@ -7,13 +7,9 @@ Tools used:
 IBM Cloud,HTML,Javascript,IBM Cloud Object Storage,Python-Flask,Kubernetes,Docker,IBM DB2,IBM Container Registry
                                                                    
 PROJECT DESCRIPTION :
-Food is essential for human life and has been the concern of many healthcare conventions. Nowadays new dietary assessment and nutrition analysis tools enable more
-opportunities to help people understand their daily eating habits, exploring nutrition patterns and maintain a healthy diet.Nutritional analysis is the process of 
-determining the nutritional content of food.It is a vital part of analytical chemistry that provides information about the chemical composition, processing, quality 
-control and contamination of food.The main aim of the project is to building a model which is used for classifying the fruit depends on the different characteristics
-like colour, shape, texture etc. Here the user can capture the images of different fruits and then the image will be sent the trained model. The model analyses
-the image and detect the nutrition based on the fruits like (Sugar, Fibre, Protein, Calories, etc.).    
+Due to the ignorance of healthy food habits, obesity rates are increasing at an alarming speed, and this is reflective of the risks to people’s health. People need to control their daily calorie intake by eating healthier foods, which is the most basic method to avoid obesity. However, although food packaging comes with nutrition (and calorie) labels, it’s still not very convenient for people to refer to App-based nutrient dashboard systems which can analyze real-time images of a meal and analyze it for nutritional content which can be very handy and improves the dietary habits, and therefore, helps in maintaining a healthy lifestyle.
 
+This project aims at building a web App that automatically estimates food attributes such as ingredients and nutritional value by classifying the input image of food.  Our method employs Clarifai's AI-Driven Food Detection Model for accurate food identification and Food API's to give the nutritional value of the identified food.
 TEAM MEMBERS :
 A.sakthi oviya ,
 J.Rajarajeswari,
