@@ -1,6 +1,6 @@
 # IBM-Project-38137-1660372968
 
-                                   Nutrition Assistant Application
+                                             Nutrition Assistant Application
 Category: Cloud App Development
 
 Tools used:
