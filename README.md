@@ -1,9 +1,13 @@
 # IBM-Project-38137-1660372968
 
-                                    NUTRITION ASSISTANT APPLICATION
+                                   Nutrition Assistant Application
+Category: Cloud App Development
+
+Tools used:
+IBM Cloud,HTML,Javascript,IBM Cloud Object Storage,Python-Flask,Kubernetes,Docker,IBM DB2,IBM Container Registry
                                                                    
 PROJECT DESCRIPTION :
-	Food is essential for human life and has been the concern of many healthcare conventions. Nowadays new dietary assessment and nutrition analysis tools enable more
+Food is essential for human life and has been the concern of many healthcare conventions. Nowadays new dietary assessment and nutrition analysis tools enable more
 opportunities to help people understand their daily eating habits, exploring nutrition patterns and maintain a healthy diet.Nutritional analysis is the process of 
 determining the nutritional content of food.It is a vital part of analytical chemistry that provides information about the chemical composition, processing, quality 
 control and contamination of food.The main aim of the project is to building a model which is used for classifying the fruit depends on the different characteristics
